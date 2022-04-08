@@ -3,7 +3,7 @@
     👋 I'm Styve,  
     <br>I'm developer and Administrator System and Reseau from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Thursday, 7 April and it is 07&#x2F;04&#x2F;2022, 10:23 ✨<br><br>
+    <br> We are the Friday, 8 April and it is 08&#x2F;04&#x2F;2022, 10:23 ✨<br><br>
   </samp>
 </p>
 
