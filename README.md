@@ -43,17 +43,17 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/nemsstyve/styvenematcha/"><b>Site CV version Web</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/GuillaumeDupuy/Site_Portfolio.svg"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/GuillaumeDupuy/Site_Portfolio.svg"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/GuillaumeDupuy/Site_Portfolio.svg"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GuillaumeDupuy/Site_Portfolio.svg"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/styvenematcha.svg"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/styvenematcha.svg"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/styvenematcha.svg"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nemsstyve/styvenematcha.svg"/></td>
     </tr>
   </tbody>
 </table>
 
 <h3>My latest posts</h3>
 <ul>
-  <!--<li><a href="https://guillaumedupuy.fr/"><b>Site PortFolio</b></a><br/><i>Site CV</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/http/guillaumedupuy.fr.svg"/></li>-->
+  <!--<li><a href="https://nemsstyve.github.io/styvenematcha/"><b>Site PortFolio</b></a><br/><i>Site CV</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/https://nemsstyve.github.io/styvenematcha/.svg"/></li>-->
   <li><a href="https://nemsstyve.github.io/styvenematcha/"><b>Mon CV</b></a><br/></li>
 </ul>
 
