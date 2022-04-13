@@ -3,7 +3,7 @@
     👋 I'm Styve,  
     <br>I'm developer and Administrator System and Reseau from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Friday, 8 April and it is 08&#x2F;04&#x2F;2022, 10:23 ✨<br><br>
+    <br> We are the Thursday, 7 April and it is 07&#x2F;04&#x2F;2022, 10:23 ✨<br><br>
   </samp>
 </p>
 
@@ -59,8 +59,8 @@
 
 <h3>My Stats Account</h3>
 
-<pre align="center"><img src="https://github-readme-stats.vercel.app/api?username=StyveNematcha&theme=blue-green"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StyveNematcha&theme=blue-green"/>
-<img  src="https://github-profile-trophy.vercel.app/?username=StyveNematcha&row=1)](https://github.com/ryo-ma/github-profile-trophy"/> </pre>
+<pre align="center"><img src="https://github-readme-stats.vercel.app/api?username=nemsstyve&theme=blue-green"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemsstyve&theme=blue-green"/>
+<img  src="https://github-profile-trophy.vercel.app/?username=nemsstyve&row=1)](https://github.com/ryo-ma/github-profile-trophy"/> </pre>
 
 <h3>Where to find me</h3>
 <p align="center"><a href="https://github.com/nemsstyve" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/styve_chris" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/styve-nematcha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
