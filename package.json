@@ -1,21 +1,21 @@
 {
-  "name": "guillaumedupuy",
+  "name": "nemsstyve",
   "version": "1.0.0",
-  "description": "<!--\r **GuillaumeDupuy/GuillaumeDupuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "description": "<!--\r **nemsstyve/nemsstyve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GuillaumeDupuy/GuillaumeDupuy.git"
+    "url": "git+https://github.com/nemsstyve/nemsstyve.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GuillaumeDupuy/GuillaumeDupuy/issues"
+    "url": "https://github.com/nemsstyve/nemsstyve/issues"
   },
-  "homepage": "https://github.com/GuillaumeDupuy/GuillaumeDupuy#readme",
+  "homepage": "https://github.com/nemsstyve/nemsstyve#readme",
   "dependencies": {
     "mustache": "^4.2.0"
   }
