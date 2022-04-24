@@ -6,7 +6,6 @@
     <br> We are the Thursday, 21 April and it is 22&#x2F;04&#x2F;2022, 21:17 ✨<br><br>
   </samp>
 </p>
-
 <h3>Things I code with</h3>
 
 <p>
@@ -42,7 +41,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/nemsstyve/site_portfolio"><b>Site_portfolio</b></a></td>
+      <td><a href="https://github.com/nemsstyve/Site_Portfolio"><b>site_portFolio</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/site_portfolio.svg"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/site_portfolio.svg"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/site_portfolio.svg"/></td>
@@ -60,13 +59,14 @@
 
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="http://styvenematcha.com/"><b>Site PortFolio</b></a><br/><i> Ma Page Web</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/http://styvenematcha.com/.svg"/></li>
+   <li><a href="http://styvenematcha.com/"><b>Site PortFolio</b></a><br/><i> Ma Page Web</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/http://styvenematcha.com/.svg"/></li>
   <li><a href="https://nemsstyve.github.io/styvenematcha/"><b>Mon CV</b></a><br/><i> Mon CV Web</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/https://nemsstyve.github.io/styvenematcha/.svg"/></li>
+  <li><a href="https://github.com/nemsstyve/groupie-tracker"><b>Projet Groupie-tracker</b></a><br/><i>Projet d'analyse d'une API et création d'un site en Golang</i></li>
 </ul>
 
 <h3>My Stats Account</h3>
 
-<pre align="center"><img src="https://github-readme-stats.vercel.app/api?username=nemsstyve&theme=blue-green"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemsstyve&theme=blue-green"/>
+<pre align="center"><img src="https://github-readme-stats.vercel.app/api?username=nemsstyve&theme=blue-green"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=blue-green"/>
 <img  src="https://github-profile-trophy.vercel.app/?username=nemsstyve&row=1)](https://github.com/ryo-ma/github-profile-trophy"/> </pre>
 
 <h3>Where to find me</h3>
