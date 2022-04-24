@@ -3,7 +3,7 @@
     👋 I'm Styve,  
     <br>I'm developer and Administrator System and Reseau from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Thursday, 21 April and it is 21&#x2F;04&#x2F;2022, 23:17 ✨<br><br>
+    <br> We are the Thursday, 21 April and it is 22&#x2F;04&#x2F;2022, 21:17 ✨<br><br>
   </samp>
 </p>
 
@@ -60,8 +60,8 @@
 
 <h3>My latest posts</h3>
 <ul>
-  <!--<li><a href="https://nemsstyve.github.io/styvenematcha/"><b>Site PortFolio</b></a><br/><i>Site CV</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/https://nemsstyve.github.io/styvenematcha/.svg"/></li>-->
-  <li><a href="https://nemsstyve.github.io/styvenematcha/"><b>Mon CV</b></a><br/></li>
+  <li><a href="http://styvenematcha.com/"><b>Site PortFolio</b></a><br/><i> Ma Page Web</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/http://styvenematcha.com/.svg"/></li>
+  <li><a href="https://nemsstyve.github.io/styvenematcha/"><b>Mon CV</b></a><br/><i> Mon CV Web</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/https://nemsstyve.github.io/styvenematcha/.svg"/></li>
 </ul>
 
 <h3>My Stats Account</h3>

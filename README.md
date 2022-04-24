@@ -1,8 +1,8 @@
-<p align="center">Welcome to my page! <br> 
+<p align="center">Welcome to my page! <br>
   <samp>
     👋 I'm Styve,  
     <br>I'm developer and Administrator System and Reseau from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
-    <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
+    <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b>
     <br> We are the Thursday, 21 April and it is 22&#x2F;04&#x2F;2022, 21:17 ✨<br><br>
   </samp>
 </p>
@@ -25,7 +25,7 @@
   <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> 
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 </p>
 
 <h3>Open source projects</h3>
@@ -60,8 +60,8 @@
 
 <h3>My latest posts</h3>
 <ul>
-  <!--<li><a href="https://nemsstyve.github.io/styvenematcha/"><b>Site PortFolio</b></a><br/><i>Site CV</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/https://nemsstyve.github.io/styvenematcha/.svg"/></li>-->
-  <li><a href="https://nemsstyve.github.io/styvenematcha/"><b>Mon CV</b></a><br/></li>
+  <li><a href="http://styvenematcha.com/"><b>Site PortFolio</b></a><br/><i> Ma Page Web</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/http://styvenematcha.com/.svg"/></li>
+  <li><a href="https://nemsstyve.github.io/styvenematcha/"><b>Mon CV</b></a><br/><i> Mon CV Web</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/https://nemsstyve.github.io/styvenematcha/.svg"/></li>
 </ul>
 
 <h3>My Stats Account</h3>
