@@ -9,13 +9,13 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
  */
 let DATA = {
     name: 'Styve',
-    date: new Date().toLocaleDateString('en-GB', {
+    date: new Date().toLocaleDateString('fr-GB', {
         weekday: 'long',
         month: 'long',
         day: 'numeric',
         timeZone: 'Europe/Paris',
     }),
-    heure: new Date().toLocaleDateString('en-GB', {
+    heure: new Date().toLocaleDateString('fr-GB', {
         hour: 'numeric',
         minute: 'numeric',
         timeZone: 'Europe/Paris',
