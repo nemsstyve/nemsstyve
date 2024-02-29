@@ -2,7 +2,7 @@
   <samp>
     👋 I'm Styve,  
     <br>I'm developer and Administrator System and Reseau from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
-    <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
+    <br>at <em>ENSITECH</em> in <b>Paris, France </b> 
     <br> We are the Thursday, 21 April and it is 22&#x2F;04&#x2F;2022, 21:17 ✨<br><br>
   </samp>
 </p>
