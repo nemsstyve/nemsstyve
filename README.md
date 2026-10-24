@@ -1,10 +1,33 @@
 <p align="center">Welcome to my page! <br> 
   <samp>
     <img src="https://api.iconify.design/lucide/hand.svg?color=%232f81f7" width="16" height="16" /> I'm Styve,  
-    <br>I'm developer and Administrator System and Reseau from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
-    <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are Saturday, 24 October 2026 and it is 12:56 (Paris time) <img src="https://api.iconify.design/octicon/sparkle-fill-16.svg?color=%232f81f7" width="16" height="16" /><br><br>
+    <br>Cybersecurity student specialising in <b>Blue Team / SOC analysis</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
+    <br>Second year of a Master's at <em>Oteria Cyber School</em> in <b>Paris, France</b>
+    <br>Currently at <b>ICAPE Group</b>
+    <br> We are Saturday, 24 October 2026 and it is 13:16 (Paris time) <img src="https://api.iconify.design/octicon/sparkle-fill-16.svg?color=%232f81f7" width="16" height="16" /><br><br>
   </samp>
+</p>
+
+<h3><img src="https://api.iconify.design/octicon/shield-check-16.svg?color=%232f81f7" width="20" height="20" /> Cybersecurity &middot; Blue Team / SOC</h3>
+
+<p>
+  <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img alt="Elastic Stack" src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" />
+  <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+  <img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-3595F6?style=for-the-badge" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img alt="Suricata" src="https://img.shields.io/badge/Suricata-EF8C21?style=for-the-badge" />
+  <img alt="Snort" src="https://img.shields.io/badge/Snort-CC1F25?style=for-the-badge&logo=snort&logoColor=white" />
+  <img alt="MITRE ATT&CK" src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=for-the-badge" />
+  <img alt="VirusTotal" src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img alt="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img alt="pfSense" src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img alt="Fortinet" src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </p>
 
 <h3><img src="https://api.iconify.design/octicon/code-16.svg?color=%232f81f7" width="20" height="20" /> Things I code with</h3>
