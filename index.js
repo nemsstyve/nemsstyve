@@ -9,6 +9,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 */
 let DATA = {
   name: 'Styve',
+  liveClock: true,
   date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',

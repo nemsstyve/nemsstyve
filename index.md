@@ -4,9 +4,22 @@
     <br>Cybersecurity student specialising in <b>Blue Team / SOC analysis</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>Second year of a Master's at <em>Oteria Cyber School</em> in <b>Paris, France</b>
     <br>Currently at <b>ICAPE Group</b>
-    <br> We are Saturday, 24 October 2026 and it is 13:16 (Paris time) <img src="https://api.iconify.design/octicon/sparkle-fill-16.svg?color=%232f81f7" width="16" height="16" /><br><br>
+    <br> We are <span id="date">Saturday, 24 October 2026</span> and it is <span id="heure">13:26</span> (Paris time) <img src="https://api.iconify.design/octicon/sparkle-fill-16.svg?color=%232f81f7" width="16" height="16" /><br><br>
   </samp>
 </p>
+<script>
+  // Live clock for the GitHub Pages site (GitHub strips scripts from the profile README)
+  (function () {
+    var zone = 'Europe/Paris';
+    function tick() {
+      var now = new Date();
+      document.getElementById('date').textContent = now.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric', timeZone: zone });
+      document.getElementById('heure').textContent = now.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit', second: '2-digit', timeZone: zone });
+    }
+    tick();
+    setInterval(tick, 1000);
+  })();
+</script>
 
 <h3><img src="https://api.iconify.design/octicon/shield-check-16.svg?color=%232f81f7" width="20" height="20" /> Cybersecurity &middot; Blue Team / SOC</h3>
 
