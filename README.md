@@ -1,13 +1,13 @@
 <p align="center">Welcome to my page! <br> 
   <samp>
-    👋 I'm Styve,  
+    <img src="https://api.iconify.design/lucide/hand.svg?color=%232f81f7" width="16" height="16" /> I'm Styve,  
     <br>I'm developer and Administrator System and Reseau from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are Saturday, 24 October 2026 and it is 12:34 (Paris time) ✨<br><br>
+    <br> We are Saturday, 24 October 2026 and it is 12:43 (Paris time) <img src="https://api.iconify.design/octicon/sparkle-fill-16.svg?color=%232f81f7" width="16" height="16" /><br><br>
   </samp>
 </p>
 
-<h3>Things I code with</h3>
+<h3><img src="https://api.iconify.design/octicon/code-16.svg?color=%232f81f7" width="20" height="20" /> Things I code with</h3>
 
 <p>
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
@@ -28,16 +28,16 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> 
 </p>
 
-<h3>Open source projects</h3>
+<h3><img src="https://api.iconify.design/octicon/project-16.svg?color=%232f81f7" width="20" height="20" /> Open source projects</h3>
 
 <table>
   <thead align="center">
     <tr>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><img src="https://api.iconify.design/octicon/repo-16.svg?color=%232f81f7" width="16" height="16" /> <b>Projects</b></td>
+      <td><img src="https://api.iconify.design/octicon/star-16.svg?color=%232f81f7" width="16" height="16" /> <b>Stars</b></td>
+      <td><img src="https://api.iconify.design/octicon/repo-forked-16.svg?color=%232f81f7" width="16" height="16" /> <b>Forks</b></td>
+      <td><img src="https://api.iconify.design/octicon/issue-opened-16.svg?color=%232f81f7" width="16" height="16" /> <b>Issues</b></td>
+      <td><img src="https://api.iconify.design/octicon/git-pull-request-16.svg?color=%232f81f7" width="16" height="16" /> <b>Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
@@ -72,19 +72,19 @@
   </tbody>
 </table>
 
-<h3>My latest posts</h3>
+<h3><img src="https://api.iconify.design/octicon/globe-16.svg?color=%232f81f7" width="20" height="20" /> My latest posts</h3>
 <ul>
    <li><a href="http://styvenematcha.com/"><b>Site PortFolio</b></a><br/><i> Ma Page Web</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/https/styvenematcha.com.svg"/></li>
   <li><a href="https://nemsstyve.github.io/styvenematcha/"><b>Mon CV</b></a><br/><i> Mon CV Web</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/https/nemsstyve.github.io/styvenematcha.svg"/></li>
   <li><a href="https://github.com/nemsstyve/groupie-tracker"><b>Projet Groupie-tracker</b></a><br/><i>Projet d'analyse d'une API et création d'un site en Golang</i></li>
 </ul>
 
-<h3>My Stats Account</h3>
+<h3><img src="https://api.iconify.design/octicon/graph-16.svg?color=%232f81f7" width="20" height="20" /> My Stats Account</h3>
 
 <pre align="center"><img src="https://github-readme-stats.vercel.app/api?username=nemsstyve&theme=blue-green"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemsstyve&theme=blue-green"/>
-<img src="https://github-profile-trophy.vercel.app/?username=nemsstyve&row=1&theme=darkhub"/> </pre>
+<img src="https://github-trophies.vercel.app/?username=nemsstyve&row=1&theme=darkhub"/> </pre>
 
-<h3>Where to find me</h3>
+<h3><img src="https://api.iconify.design/octicon/location-16.svg?color=%232f81f7" width="20" height="20" /> Where to find me</h3>
 <p align="center"><a href="https://github.com/nemsstyve" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://x.com/styve_chris" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://www.linkedin.com/in/styve-nematcha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
 <hr>
