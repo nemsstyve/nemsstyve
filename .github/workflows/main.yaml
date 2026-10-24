@@ -4,13 +4,17 @@ on:
   push:
     branches:
       - main
-  schedule:
-    # Off the top of the hour, when GitHub delays or drops scheduled runs
-    - cron: '7,37 * * * *'
+  # Triggered every 30 minutes by cron-job.org through the workflow_dispatch API,
+  # because GitHub's own schedule was delayed or dropped
   workflow_dispatch:
 
 permissions:
   contents: write
+
+# Two runs pushing README.md at the same time would make one of them fail
+concurrency:
+  group: readme-build
+  cancel-in-progress: false
 
 jobs:
   build:
