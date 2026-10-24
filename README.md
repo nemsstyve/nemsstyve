@@ -3,7 +3,7 @@
     <img src="https://api.iconify.design/lucide/hand.svg?color=%232f81f7" width="16" height="16" /> I'm Styve,  
     <br>I'm developer and Administrator System and Reseau from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are Saturday, 24 October 2026 and it is 12:45 (Paris time) <img src="https://api.iconify.design/octicon/sparkle-fill-16.svg?color=%232f81f7" width="16" height="16" /><br><br>
+    <br> We are Saturday, 24 October 2026 and it is 12:56 (Paris time) <img src="https://api.iconify.design/octicon/sparkle-fill-16.svg?color=%232f81f7" width="16" height="16" /><br><br>
   </samp>
 </p>
 
@@ -31,43 +31,43 @@
 <h3><img src="https://api.iconify.design/octicon/project-16.svg?color=%232f81f7" width="20" height="20" /> Open source projects</h3>
 
 <table>
-  <thead align="center">
+  <thead>
     <tr>
-      <td><img src="https://api.iconify.design/octicon/repo-16.svg?color=%232f81f7" width="16" height="16" /> <b>Projects</b></td>
-      <td><img src="https://api.iconify.design/octicon/star-16.svg?color=%232f81f7" width="16" height="16" /> <b>Stars</b></td>
-      <td><img src="https://api.iconify.design/octicon/repo-forked-16.svg?color=%232f81f7" width="16" height="16" /> <b>Forks</b></td>
-      <td><img src="https://api.iconify.design/octicon/issue-opened-16.svg?color=%232f81f7" width="16" height="16" /> <b>Issues</b></td>
-      <td><img src="https://api.iconify.design/octicon/git-pull-request-16.svg?color=%232f81f7" width="16" height="16" /> <b>Pull requests</b></td>
+      <th align="left"><img src="https://api.iconify.design/octicon/repo-16.svg?color=%232f81f7" width="16" height="16" /> <b>Projects</b></th>
+      <th align="center"><img src="https://api.iconify.design/octicon/star-16.svg?color=%232f81f7" width="16" height="16" /> <b>Stars</b></th>
+      <th align="center"><img src="https://api.iconify.design/octicon/repo-forked-16.svg?color=%232f81f7" width="16" height="16" /> <b>Forks</b></th>
+      <th align="center"><img src="https://api.iconify.design/octicon/issue-opened-16.svg?color=%232f81f7" width="16" height="16" /> <b>Issues</b></th>
+      <th align="center"><img src="https://api.iconify.design/octicon/git-pull-request-16.svg?color=%232f81f7" width="16" height="16" /> <b>Pull requests</b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/nemsstyve/groupie-tracker"><b>Groupie-tracker</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/groupie-tracker.svg"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/groupie-tracker.svg"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/groupie-tracker.svg"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nemsstyve/groupie-tracker.svg"/></td>
+      <td align="left"><a href="https://github.com/nemsstyve/groupie-tracker"><b>Groupie-tracker</b></a></td>
+      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/groupie-tracker.svg"/></td>
+      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/groupie-tracker.svg"/></td>
+      <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/groupie-tracker.svg"/></td>
+      <td align="center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nemsstyve/groupie-tracker.svg"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/nemsstyve/hangman-web"><b>Hangman Web</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/hangman-web.svg"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/hangman-web.svg"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/hangman-web.svg"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nemsstyve/hangman-web.svg"/></td>
+      <td align="left"><a href="https://github.com/nemsstyve/hangman-web"><b>Hangman Web</b></a></td>
+      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/hangman-web.svg"/></td>
+      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/hangman-web.svg"/></td>
+      <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/hangman-web.svg"/></td>
+      <td align="center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nemsstyve/hangman-web.svg"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/nemsstyve/Forum_projet"><b>Forum</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/Forum_projet.svg"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/Forum_projet.svg"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/Forum_projet.svg"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nemsstyve/Forum_projet.svg"/></td>
+      <td align="left"><a href="https://github.com/nemsstyve/Forum_projet"><b>Forum</b></a></td>
+      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/Forum_projet.svg"/></td>
+      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/Forum_projet.svg"/></td>
+      <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/Forum_projet.svg"/></td>
+      <td align="center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nemsstyve/Forum_projet.svg"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/nemsstyve/Project_React_Netflix"><b>React Netflix</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/Project_React_Netflix.svg"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/Project_React_Netflix.svg"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/Project_React_Netflix.svg"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nemsstyve/Project_React_Netflix.svg"/></td>
+      <td align="left"><a href="https://github.com/nemsstyve/Project_React_Netflix"><b>React Netflix</b></a></td>
+      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/Project_React_Netflix.svg"/></td>
+      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/Project_React_Netflix.svg"/></td>
+      <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/Project_React_Netflix.svg"/></td>
+      <td align="center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nemsstyve/Project_React_Netflix.svg"/></td>
     </tr>
   </tbody>
 </table>
