@@ -13,11 +13,12 @@ let DATA = {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
+    year: 'numeric',
     timeZone: 'Europe/Paris',
   }),
-  heure: new Date().toLocaleDateString('en-GB', {
-    hour: 'numeric',
-    minute: 'numeric',
+  heure: new Date().toLocaleTimeString('en-GB', {
+    hour: '2-digit',
+    minute: '2-digit',
     timeZone: 'Europe/Paris',
   }),
 };

@@ -3,9 +3,10 @@
     👋 I'm Styve,  
     <br>I'm developer and Administrator System and Reseau from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Thursday, 21 April and it is 22&#x2F;04&#x2F;2022, 21:17 ✨<br><br>
+    <br> We are Saturday, 24 October 2026 and it is 12:28 (Paris time) ✨<br><br>
   </samp>
 </p>
+
 <h3>Things I code with</h3>
 
 <p>
@@ -41,25 +42,39 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/nemsstyve/Site_Portfolio"><b>site_portFolio</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/site_portfolio.svg"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/site_portfolio.svg"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/site_portfolio.svg"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nemsstyve/site_portfolio.svg"/></td>
+      <td><a href="https://github.com/nemsstyve/groupie-tracker"><b>Groupie-tracker</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/groupie-tracker.svg"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/groupie-tracker.svg"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/groupie-tracker.svg"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nemsstyve/groupie-tracker.svg"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/nemsstyve/styvenematcha/"><b>Site CV version Web</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/styvenematcha.svg"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/styvenematcha.svg"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/styvenematcha.svg"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nemsstyve/styvenematcha.svg"/></td>
+      <td><a href="https://github.com/nemsstyve/hangman-web"><b>Hangman Web</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/hangman-web.svg"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/hangman-web.svg"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/hangman-web.svg"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nemsstyve/hangman-web.svg"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nemsstyve/Forum_projet"><b>Forum</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/Forum_projet.svg"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/Forum_projet.svg"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/Forum_projet.svg"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nemsstyve/Forum_projet.svg"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nemsstyve/Project_React_Netflix"><b>React Netflix</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nemsstyve/Project_React_Netflix.svg"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nemsstyve/Project_React_Netflix.svg"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nemsstyve/Project_React_Netflix.svg"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nemsstyve/Project_React_Netflix.svg"/></td>
     </tr>
   </tbody>
 </table>
 
 <h3>My latest posts</h3>
 <ul>
-   <li><a href="https://styvenematcha.com/"><b>Site PortFolio</b></a><br/><i> Ma Page Web</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/https/styvenematcha.com.svg"/></li>
+   <li><a href="http://styvenematcha.com/"><b>Site PortFolio</b></a><br/><i> Ma Page Web</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/https/styvenematcha.com.svg"/></li>
   <li><a href="https://nemsstyve.github.io/styvenematcha/"><b>Mon CV</b></a><br/><i> Mon CV Web</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/https/nemsstyve.github.io/styvenematcha.svg"/></li>
   <li><a href="https://github.com/nemsstyve/groupie-tracker"><b>Projet Groupie-tracker</b></a><br/><i>Projet d'analyse d'une API et création d'un site en Golang</i></li>
 </ul>
@@ -67,10 +82,10 @@
 <h3>My Stats Account</h3>
 
 <pre align="center"><img src="https://github-readme-stats.vercel.app/api?username=nemsstyve&theme=blue-green"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemsstyve&theme=blue-green"/>
-<img  src="https://github-profile-trophy.vercel.app/?username=nemsstyve&row=1)](https://github.com/ryo-ma/github-profile-trophy"/> </pre>
+<img src="https://github-profile-trophy.vercel.app/?username=nemsstyve&row=1&theme=darkhub"/> </pre>
 
 <h3>Where to find me</h3>
-<p align="center"><a href="https://github.com/nemsstyve" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/styve_chris" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/styve-nematcha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p align="center"><a href="https://github.com/nemsstyve" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://x.com/styve_chris" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://www.linkedin.com/in/styve-nematcha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
 <hr>
 
