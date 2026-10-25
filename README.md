@@ -4,7 +4,7 @@
     <br>Cybersecurity student specialising in <b>Blue Team / SOC analysis</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>Second year of a Master's at <em>Oteria Cyber School</em> in <b>Paris, France</b>
     <br>Currently at <b>ICAPE Group</b>
-    <br> Last updated: Sunday, 25 October 2026, 02:00 (Paris time) <img src="https://api.iconify.design/octicon/sparkle-fill-16.svg?color=%232f81f7" width="16" height="16" /><br><br>
+    <br> Last updated: Sunday, 25 October 2026, 02:30 (Paris time) <img src="https://api.iconify.design/octicon/sparkle-fill-16.svg?color=%232f81f7" width="16" height="16" /><br><br>
   </samp>
 </p>
 
